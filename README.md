@@ -11,11 +11,11 @@ Simple Javascript Framework for video backgrounds.
 
 ## Instructions
 
-Download it from [GitHub](https://github.com/VodkaBears/Vide/releases/latest).
+Download it from [GitHub](https://github.com/MaikelDesign/Sivi-bg).
 
 Include Framework: 
 ```html 
-<script src="js/library.min.js" ></script>
+<script src="js/sivibg.js" ></script>
 ```
 
 Prepare your video in formats for cross browser compatibility (.mp4 - .webm - .ogg). 
@@ -33,7 +33,7 @@ path/
 
 Add this div tag with the id set to 'vide-bg' to your body. Place it at the top of your code.
 ```html 
-<div id='vide-bg'></div>
+<div id='video-bg'></div>
 ``` 
 This div is the container that contains the video tag.
 
