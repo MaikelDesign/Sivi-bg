@@ -11,7 +11,7 @@ Simple Javascript Framework for video backgrounds.
 
 ## Instructions
 
-Download it from [GitHub](https://github.com/MaikelDesign/Sivi-bg).
+Download it from [GitHub](https://github.com/MaikelDesign/Sivi-bg/releases).
 
 Include Framework: 
 ```html 
